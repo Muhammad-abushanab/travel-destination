@@ -1,0 +1,28 @@
+.logo {
+    color: #000000;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.nav-menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-menu li {
+    margin-right: 10px;
+}
+
+.nav-menu li a {
+    font-size: large;
+    padding: 7px 5px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav-menu li a:hover {
+    color: #071952;
+    border-bottom: #071952 solid;
+}
